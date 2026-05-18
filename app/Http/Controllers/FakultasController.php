@@ -67,6 +67,7 @@ class FakultasController extends Controller
     public function update(Request $request, Fakultas $fakultas)
     {
         //
+        
     }
 
     /**
