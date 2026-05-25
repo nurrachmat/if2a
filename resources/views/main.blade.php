@@ -358,7 +358,13 @@
               <li class="nav-item">
                 <a href="{{ route('prodi.index') }}" class="nav-link">
                   <i class="nav-icon bi bi-bank"></i>
-                  <p>Prodi</p>
+                  <p>Program Studi</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="{{ route('mahasiswa.index') }}" class="nav-link">
+                  <i class="nav-icon bi bi-people"></i>
+                  <p>Mahasiswa</p>
                 </a>
               </li>
               
